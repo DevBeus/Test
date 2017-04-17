@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">GitHubTest</string>
     <string name="text_string">Hello World!</string>
-    <string name="button_string">Button</string>
+    <string name="button_string">OK</string>
     <string name="cancel_string">Cancel</string>
     <string name="edit_button">Edit</string>
 </resources>
